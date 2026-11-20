@@ -1,0 +1,14 @@
+# Maven generated files
+target/
+
+# TestNG generated reports
+test-output/
+
+# Java compiled files
+*.class
+
+# Log files
+*.log
+
+# IDE and workspace files
+.metadata/
